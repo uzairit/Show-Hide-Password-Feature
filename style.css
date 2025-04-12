@@ -28,3 +28,8 @@ button {
     border-radius: 6px;
     cursor: pointer;
 }
+
+.hide {
+    background-color: #dadada;
+    color: black;
+}
